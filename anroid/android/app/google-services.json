@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "394427055146",
+    "project_id": "avesidentificationapp",
+    "storage_bucket": "avesidentificationapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394427055146:android:3c5187fb182794baf61753",
+        "android_client_info": {
+          "package_name": "com.prabhat.bird_species_identification_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "394427055146-m38drqfgg4dm72vapvhibpdan2rlmb6f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxhvAkOsLdl4p7Z6N98IPq4e2wtbZMgzA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "394427055146-m38drqfgg4dm72vapvhibpdan2rlmb6f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
