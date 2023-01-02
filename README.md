@@ -1,2 +1,16 @@
-# Aves-Identification-App
-This is a birds identification app created using Flutter and Firebase with a neural network trained using InceptionV3
+# bird_species_identification_app
+
+An app to identify bird species from a given image
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
